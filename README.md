@@ -6,7 +6,8 @@ Imagine a world where your dream European vacation is just a touch away. Welcome
 Celebrating our app's grand entrance - An elegant introduction as your app
 comes to life, the splash activity showcases your logo and app name, setting the stage for an exceptional user experience.
 
-# 2. Introduction Page Welcome to the introduction page, your gateway to the world of travel management in Europe. This page gracefully emerges right after the captivating splash activity, inviting users to explore our travel manager app. A single click on the inviting button seamlessly guides you to the heart of the application – the dashboard.
+# 2. Introduction Page : 
+Welcome to the introduction page, your gateway to the world of travel management in Europe. This page gracefully emerges right after the captivating splash activity, inviting users to explore our travel manager app. A single click on the inviting button seamlessly guides you to the heart of the application – the dashboard.
 
 # 3. Dashboard 
 Welcome to our interactive dashboard, where your journey begins. At the top, it pinpoints your current location. Below, discover four enchanting categories: castles, beaches, churches, and renowned tourist attractions. Each category boasts a trio of captivating options, presented with vivid imagery, names, and countries. Simply tap any picture to unveil a wealth of information about your chosen destination. Scroll seamlessly through these enticing categories, and let your adventure unfold.
