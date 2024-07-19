@@ -18,11 +18,11 @@ Behold the Voyage app's Description Page, a visual treasure trove that paints a 
 • Tickets: The 'Tickets' feature unveils the cost of exploration, while detailed descriptions enrich your knowledge.
 • Camera: For that perfect shot? Unleash the in-built camera at your fingertips, instantly immortalizing your voyage in our image gallery. Welcome to a world of wonders!
 
-Future Scope:
+# Future Scope:
 In the current development phase of our application, we have encountered
 certain limitations. Specifically, our database is relatively small, and the application features a limited number of destinations. This constraint stems from the time-consuming process of data collection, which we are actively working on expanding. Our vision for the future is to encompass a comprehensive database, incorporating all the enchanting and diverse destinations that Europe has to offer. While these challenges exist in the present, they serve as an impetus for our commitment to continuously enhance and enrich the Voyage app, ensuring that it becomes the ultimate travel companion for exploring the entirety of Europe.
 
-Conclusion:
+# Conclusion:
 In conclusion, Voyage is more than just an app; it's the portal to a world
 of adventure and discovery. From the moment you embark with our inviting splash page, to the seamless navigation through our interactive dashboard, your journey is guided by innovation and elegance. Explore the richness of Europe's iconic places with grace, each destination brought to life with vivid imagery, informative descriptions, and a world of interactive possibilities. Whether you're gazing upon the Mona Lisa's enigmatic smile, tracing the Leaning Tower of Pisa's tilt, or experiencing the grandeur of
 Europe's historic churches, Voyage ensures every step of your journey
@@ -31,6 +31,7 @@ is memorable. Connect with local tour guides at the touch of a button, pinpoint 
 Developers:
 Name: Pooja Zambre
 Enrolment ID: 315568
+
 Name: Vinita Rane
 Enrolment ID: 315391
 
